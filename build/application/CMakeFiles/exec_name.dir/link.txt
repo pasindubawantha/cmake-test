@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/exec_name.dir/main.cpp.o  -o exec_name ../libs/liblib_name.a 

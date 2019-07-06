@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/exec_name.dir/main.cpp.o CMakeFiles/exec_name.dir/hello.cpp.o  -o exec_name liblib_name.so -Wl,-rpath,/home/pasindu/git/cmake-test/build 

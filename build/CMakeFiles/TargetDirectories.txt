@@ -1,0 +1,8 @@
+/home/pasindu/git/cmake-test/build/CMakeFiles/edit_cache.dir
+/home/pasindu/git/cmake-test/build/CMakeFiles/rebuild_cache.dir
+/home/pasindu/git/cmake-test/build/libs/CMakeFiles/edit_cache.dir
+/home/pasindu/git/cmake-test/build/libs/CMakeFiles/rebuild_cache.dir
+/home/pasindu/git/cmake-test/build/libs/CMakeFiles/lib_name.dir
+/home/pasindu/git/cmake-test/build/application/CMakeFiles/edit_cache.dir
+/home/pasindu/git/cmake-test/build/application/CMakeFiles/rebuild_cache.dir
+/home/pasindu/git/cmake-test/build/application/CMakeFiles/exec_name.dir
